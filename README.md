@@ -1,15 +1,15 @@
 ![A student, web developer and programmer. Yes, I'm a man of many things.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-# Hi, I Am Tasin.
-## A student, web developer, programmer and a man of many other things. 😉
+## Hi, I Am Tasin.
+### A student, web developer, programmer and a man of many other things. 😉
 
-### I am from Bangladesh. I started learning web development besides my studies in 2020. I mainly design websites using HTML and CSS. I am currently learning C.  
+#### I am from Bangladesh. I started learning web development besides my studies in 2020. I mainly design websites using HTML and CSS. I am currently learning C.  
 
-Skills: HTML / CSS / C / Linux / Git / Netlify
+#### Skills: HTML / CSS / C / Linux / Git / Netlify
 
-- 🔥 I’m currently learning The C programming language. 
-- 🌐 How to reach me: Contact through my website  
+##### - 🔥 I’m currently learning The C programming language. 
+##### - 🌐 How to reach me: Contact through my website  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/tasinhaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/tasin65)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](http://tasinhaque.netlify.app)  
