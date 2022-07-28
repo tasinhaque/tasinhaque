@@ -1,6 +1,6 @@
 <h1 align="left">I'm Tasin</h1>
-##And I am a
-#Web Developer
+## And I am a
+# Web Developer
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasinhaque&label=Profile%20views&color=0e75b6&style=flat" alt="tasinhaque" /> </p>
