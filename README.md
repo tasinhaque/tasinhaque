@@ -1,9 +1,10 @@
-
-### Hi. I Am TASIN  
-#### A student, web developer and programmer. Yes, I'm a man of many things. 😉
 ![A student, web developer and programmer. Yes, I'm a man of many things.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I am from Bangladesh. I started learning web development besides my studies in 2020. I mainly design websites using HTML and CSS. I am currently learning C.  
+
+# Hi, I Am Tasin.
+## A student, web developer, programmer and a man of many other things. 😉
+
+### I am from Bangladesh. I started learning web development besides my studies in 2020. I mainly design websites using HTML and CSS. I am currently learning C.  
 
 Skills: HTML / CSS / C / Linux / Git / Netlify
 
